@@ -1,60 +1,53 @@
-# 👋 Hi, I'm Mahbuba Siddiqua Jyoti
+# 👋 Hi, I'm Mahbuba Siddiqua Jyoti  
+### Data Scientist | Machine Learning | NLP | Data Engineering  
 
-**Aspiring Data Scientist | Machine Learning | NLP | Data Engineering**  
-I am a results-driven Data Scientist with a strong foundation in machine learning, data engineering, and NLP. Passionate about solving real-world problems through data-driven strategies, particularly in **climate resilience, misinformation detection, and healthcare analytics**.  
-
-🌍 Based in **Queens, NY, USA**  
-🎓 **Master's in Data Science & Engineering**, City College of New York (Expected May 2025)  
-📫 Contact: [Email](mailto:mjyoti000@citymail.cuny.edu) | [Email](mailto:jyot3664@kettering.edu) | [LinkedIn](https://www.linkedin.com/in/mahbuba-datascience)  
-
----
-
-## 🚀 Skills & Tools  
-### **Programming & Scripting**  
-- Python, R, SQL, NoSQL, C, C++, JavaScript  
-
-### **Machine Learning & Data Science**  
-- Scikit-learn, TensorFlow, PyTorch, Hugging Face Transformers  
-- NLP (spaCy, NLTK)  
-- Data Engineering (Apache Spark, Hadoop, Databricks)  
-
-### **Databases & Cloud Platforms**  
-- MySQL, PostgreSQL, MongoDB, Firestore  
-- Google Cloud Platform (Firestore, Firebase)  
-
-### **Data Visualization**  
-- Tableau, Power BI, Matplotlib, Seaborn, Gephi  
-
-### **Web Scraping & Automation**  
-- BeautifulSoup, Selenium, Flask  
+💡 Passionate about leveraging **Data Science, Machine Learning, and NLP** to solve real-world problems.  
+🎓 **Pursuing M.S. in Data Science & Engineering at The City College of New York** (Expected May 2025).  
+🔍 Interested in **Big Data, AI Ethics, Climate Analytics, and Healthcare Analytics**.  
+🚀 Open to **collaborations**, **research opportunities**, and **internships** in Data Science & AI.  
+📍 **Based in Queens, NY | Open to Relocation**  
 
 ---
 
-## 📌 Pinned Projects  
-Here are some of my best projects:  
-
-### 🔥 [Affordable Housing & Heat Resilience Analysis](https://github.com/mahbuba-datascience/affordable-housing-heat-resilience)  
-- Used **Random Forest & PCA** to analyze how urban heat affects affordable housing in NYC  
-- Processed **55,000+ data entries** & developed **geospatial data visualizations**  
-- Applied **SHAP for feature importance**, achieving **R² = 0.99, RMSE = 0.033**  
-
-### 📰 [Fake News Detection](https://github.com/mahbuba-datascience/fake-news-detection)  
-- Built an NLP model using **Transformers & Scikit-learn**  
-- Achieved **96% accuracy** & integrated explainability tools (**SHAP & LIME**)  
-
-### 🔎 [Web Scraping Custom Search Engine](https://github.com/mahbuba-datascience/web-scraper-search-engine)  
-- Automated search scraping using **BeautifulSoup & Selenium**  
-- Built an **interactive Flask-based GUI** with **OCR integration**  
-
-### ☁️ [Cloud-Based Social Networking Platform](https://github.com/mahbuba-datascience/cloud-social-network)  
-- Developed a **real-time platform** using **Google Cloud & Firebase**  
-- Implemented **secure user authentication & Firestore database design**  
-
-### 📊 [Data Engineering Pipeline](https://github.com/mahbuba-datascience/data-engineering-pipeline)  
-- Created an **ETL pipeline** using **Apache Spark & PySpark**  
-- Processed large datasets & stored in **PostgreSQL**  
+## 🔧 **Technical Skills & Tools**  
+- **Programming:** Python, R, SQL, NoSQL, C, C++, JavaScript  
+- **Machine Learning:** TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers  
+- **Big Data:** Apache Spark, PySpark, Hadoop, Databricks, HDFS, Hive  
+- **NLP:** NLTK, spaCy  
+- **Databases:** MySQL, PostgreSQL, Firestore, MongoDB  
+- **Cloud Platforms:** Google Cloud (Firestore, Firebase Admin SDK)  
+- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
+- **Web Scraping & Automation:** Flask, BeautifulSoup, Selenium  
 
 ---
+
+## 📌 **Pinned Projects**  
+
+### 🚀 **[Affordable Housing & Heat Resilience Analysis](https://github.com/mahbuba-datascience/heat-resilience-analysis)**  
+**Machine Learning & Geospatial Analysis on NYC Heat Vulnerability & Affordable Housing**  
+🔹 Processed **55,000+ data entries** to develop geospatial visualizations.  
+🔹 Built an **XGBoost model (R² = 0.99, RMSE = 0.033)** for predictive analysis.  
+🔹 **Tech Stack:** Python, SHAP, XGBoost, Random Forest, Geospatial Visualization  
+
+### 💡 **[Fake News Detection](https://github.com/mahbuba-datascience/fake-news-detection)**  
+**Real-time NLP-based Fake News Detection System**  
+🔹 Built an **NLP pipeline** using **Transformers** and **custom word embeddings**.  
+🔹 Achieved **96% accuracy** using Scikit-learn, SHAP & LIME for model explainability.  
+🔹 **Tech Stack:** Python, NLP, Transformers, SHAP, LIME  
+
+### 🌐 **[Cloud-Based Social Networking Platform](https://github.com/mahbuba-datascience/social-network-platform)**  
+🔹 Developed a **secure real-time networking platform** for programmers & cybersecurity professionals.  
+🔹 Integrated **Firebase Authentication** for user authentication & structured Firestore for data storage.  
+🔹 **Tech Stack:** Google Cloud, Firebase, Firestore, Python  
+
+### 🔍 **[Web Scrape Custom Search Engine](https://github.com/mahbuba-datascience/web-scraper)**  
+**Automated Web Scraper with an Interactive GUI**  
+🔹 Scraped search engine results using **BeautifulSoup & Selenium**.  
+🔹 Built an interactive **Flask-based GUI** to rank search results by frequency analysis.  
+🔹 **Tech Stack:** Python, Flask, BeautifulSoup, Selenium, OCR  
+
+---
+
 
 ## 📫 Let's Connect!  
 💼 **LinkedIn:** [linkedin.com/in/mahbuba-datascience](https://www.linkedin.com/in/mahbuba-datascience)  
